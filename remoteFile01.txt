@@ -1,0 +1,1 @@
+This is remote file created to test git status method. File is not on local yet.
