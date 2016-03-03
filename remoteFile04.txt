@@ -1,0 +1,1 @@
+Created remoteFile04.txt to double check git status command.
